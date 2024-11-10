@@ -1,0 +1,15 @@
+D:\Downloads\software\.net-source\AngularJSDemo\myProject\bin\Debug\net7.0\myProject.exe
+D:\Downloads\software\.net-source\AngularJSDemo\myProject\bin\Debug\net7.0\myProject.deps.json
+D:\Downloads\software\.net-source\AngularJSDemo\myProject\bin\Debug\net7.0\myProject.runtimeconfig.json
+D:\Downloads\software\.net-source\AngularJSDemo\myProject\bin\Debug\net7.0\myProject.dll
+D:\Downloads\software\.net-source\AngularJSDemo\myProject\bin\Debug\net7.0\myProject.pdb
+D:\Downloads\software\.net-source\AngularJSDemo\myProject\obj\Debug\net7.0\myProject.csproj.AssemblyReference.cache
+D:\Downloads\software\.net-source\AngularJSDemo\myProject\obj\Debug\net7.0\myProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\software\.net-source\AngularJSDemo\myProject\obj\Debug\net7.0\myProject.AssemblyInfoInputs.cache
+D:\Downloads\software\.net-source\AngularJSDemo\myProject\obj\Debug\net7.0\myProject.AssemblyInfo.cs
+D:\Downloads\software\.net-source\AngularJSDemo\myProject\obj\Debug\net7.0\myProject.csproj.CoreCompileInputs.cache
+D:\Downloads\software\.net-source\AngularJSDemo\myProject\obj\Debug\net7.0\myProject.dll
+D:\Downloads\software\.net-source\AngularJSDemo\myProject\obj\Debug\net7.0\refint\myProject.dll
+D:\Downloads\software\.net-source\AngularJSDemo\myProject\obj\Debug\net7.0\myProject.pdb
+D:\Downloads\software\.net-source\AngularJSDemo\myProject\obj\Debug\net7.0\myProject.genruntimeconfig.cache
+D:\Downloads\software\.net-source\AngularJSDemo\myProject\obj\Debug\net7.0\ref\myProject.dll

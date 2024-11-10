@@ -1,0 +1,12 @@
+{
+  "name": "angular-jsdemo",
+  "version": "0.0.0",
+  "description": "AngularJSDemo",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "angular-jsdemo": "file:"
+  }
+}
